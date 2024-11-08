@@ -24,11 +24,6 @@ Este repositório contém um sistema que processa imagens e texto utilizando o m
 ### Instalações Necessárias
 
 1. **Python 3.11.10**
-2. Instale as dependências com:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
    Principais pacotes:
    - **FastAPI**: Framework para a API backend.
    - **Streamlit**: Framework para a interface gráfica.
